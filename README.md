@@ -6,9 +6,9 @@
 * Timestamp
 #### If you use this dataset in your work, please cite the following reference:
 ###### Reference:
-```
+`
 Cui, Z., Yang, S. W., & Tsai, H. M. (2015, September). A vision-based hierarchical framework for autonomous front-vehicle taillights detection and signal recognition. In Intelligent Transportation Systems (ITSC), 2015 IEEE 18th International Conference on (pp. 931-937). IEEE.
-```
+`
 ###### Bitex:
 ```
 @inproceedings{cui2015vision,
