@@ -3,12 +3,11 @@
 > Dataset for our work: *A vision-based hierarchical framework for autonomous front-vehicle taillights detection and signal recognition*
 
 ### Data Download Link: [Vehicle Rear Light Dataset](https://drive.google.com/drive/folders/1Ms8fEpXBlWMVXpPvHbWTqWiHNB6-qaJy?usp=sharing)
-#### This dataset contains several videos recorded by a vehicle mounted camera. 
+#### This dataset contains several videos recorded by a vehicle mounted camera. All the videos are recorded in Taipei.
 #### The videos are recorded under multiple weather or light scenarios for experimental comparison. Scenarios：
-* Sunny
-* Cloudy: Filename: PPG00(696-700).mov
-* Rainy: Filename: new_2_1.mov
-* At night
+* Cloudy: Filename: PPG00(164-169).mov, PPG00(696-700).mov, EMG00030.mov
+* Rainy: Filename: IMG_6052-1.mov
+* At night: Filename: EMG00(023-031).mov
 #### The recorded video frames contain real-time information as followings:
 * Coordinates (lat, lon)
 * Speed (km/h)
