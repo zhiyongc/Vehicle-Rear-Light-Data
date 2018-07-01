@@ -1,6 +1,10 @@
 # RearLightData
-### [Vehicle rear light Dataset](https://drive.google.com/drive/folders/1Ms8fEpXBlWMVXpPvHbWTqWiHNB6-qaJy?usp=sharing)
-##### If you use this data set in your work, please cite the following reference:
+### [Vehicle Rear Light Dataset](https://drive.google.com/drive/folders/1Ms8fEpXBlWMVXpPvHbWTqWiHNB6-qaJy?usp=sharing)
+#### This dataset contains videos recorded by a vehicle mounted camera. The recorded video frames contain real-time information as followings:
+* Coordinates (lat, lon)
+* Speed (km/h)
+* Timestamp
+#### If you use this data set in your work, please cite the following reference:
 ```
 @inproceedings{cui2015vision,
   title={A vision-based hierarchical framework for autonomous front-vehicle taillights detection and signal recognition},
