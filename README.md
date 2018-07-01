@@ -1,7 +1,7 @@
 # Vehicle Rear Light (Taillight) Video Data
 
 > Dataset for our work: *A vision-based hierarchical framework for autonomous front-vehicle taillights detection and signal recognition*
-
+![Image](https://github.com/zhiyongc/Vehicle-Rear-Light-Data/blob/master/framework.png)
 ### Data Download Link: [Vehicle Rear Light Dataset](https://drive.google.com/drive/folders/1Ms8fEpXBlWMVXpPvHbWTqWiHNB6-qaJy?usp=sharing)
 #### This dataset contains several videos recorded by a vehicle mounted camera. All the videos are recorded in Taipei.
 #### The videos are recorded under multiple weather or light scenarios for experimental comparison. Scenarios：
